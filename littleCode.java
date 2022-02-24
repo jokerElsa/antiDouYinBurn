@@ -29,3 +29,11 @@ private void addClose(final RelativeLayout test, int rule, int width){
     });
     test.addView(button, layoutParams);
 }
+
+
+<RelativeLayout
+
+    android:id="@+id/testJ"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:background="@color/black"/>
